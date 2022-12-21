@@ -2,7 +2,7 @@
 
 <p>Repositório sumário para listar as atividades do curso Ignite React TS da Rocketseat.</p>
 
-### Projeto 01 - :trophy: Totalmente Concluído
+### Projeto 01 - :trophy: Concluído
 * [Fundamentos do ReactJS](https://github.com/MouraPragana/01-fundamentos-reactjs-ignite) - :1st_place_medal: Finalizado
 * [Fundamentos do ReactTS](https://github.com/MouraPragana/01-fundamentos-reactjs-ts-ignite) - :1st_place_medal: Finalizado
 * [Desafio Praticando Conceitos](https://github.com/MouraPragana/01-desafio-ignite-todo) - :1st_place_medal: Finalizado
