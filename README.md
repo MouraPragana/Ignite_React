@@ -1,6 +1,6 @@
-# Rocketseat Ignite React TS
+# Rocketseat - Ignite React TS
 
-<p>Repositório sumário para listar as atividades do curso Ignite React da Rocketseat.</p>
+<p>Repositório sumário para listar as atividades do curso Ignite React TS da Rocketseat.</p>
 
 ### Projeto 01 - :trophy: Totalmente Concluído
 * [Fundamentos do ReactJS](https://github.com/MouraPragana/01-fundamentos-reactjs-ignite) - :1st_place_medal: Finalizado
