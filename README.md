@@ -1,4 +1,4 @@
-# Rocketseat - Ignite React TS
+# Rocketseat - Trilha Ignite React TS
 
 <p>Repositório sumário para listar as atividades do curso Ignite React TS da Rocketseat.</p>
 
