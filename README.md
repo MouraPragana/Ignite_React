@@ -19,5 +19,9 @@
 * [Aplicação: Ignite Shop](https://github.com/MouraPragana/04-ignite-shop) - Finalizado :1st_place_medal:
 * [Desafio: Adicionando features ao ignite Shop](https://github.com/MouraPragana/04-ignite-shop) - Finalizado :1st_place_medal:
 
+### Projeto 05 - Design System - Concluído :trophy: 
+* [Aplicação: Design System](https://github.com/MouraPragana/05-design-system) - Finalizado :1st_place_medal:
+* [Desafio: Criando mais dois componentes no Design System](https://github.com/MouraPragana/05-design-system) - Finalizado :1st_place_medal:
+
 \
 ![123](https://user-images.githubusercontent.com/78274293/208878002-3809c4a4-049a-4eb0-b5bf-b4a2fabd0988.png)
